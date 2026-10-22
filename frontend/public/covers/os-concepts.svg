@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="OPERATING SYSTEM CONCEPTS by SILBERSCHATZ · GALVIN · GAGNE">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#164e63"/><stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="spine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000" stop-opacity=".45"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <rect width="26" height="600" fill="url(#spine)"/>
+  <rect x="26" y="0" width="1" height="600" fill="#a5f3fc" opacity=".35"/>
+  <text x="52" y="58" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="4" fill="#a5f3fc" opacity=".85">SILBERSCHATZ · GALVIN · GAGNE</text>
+  <line x1="52" y1="76" x2="120" y2="76" stroke="#a5f3fc" stroke-width="2" opacity=".7"/>
+  <g transform="translate(95,300)" stroke="#a5f3fc" fill="none" stroke-width="1.8" opacity=".5"><line x1="40" y1="0" x2="40" y2="20"/><line x1="40" y1="130" x2="40" y2="150"/><line x1="0" y1="30" x2="20" y2="30"/><line x1="150" y1="30" x2="170" y2="30"/><line x1="62" y1="0" x2="62" y2="20"/><line x1="62" y1="130" x2="62" y2="150"/><line x1="0" y1="48" x2="20" y2="48"/><line x1="150" y1="48" x2="170" y2="48"/><line x1="84" y1="0" x2="84" y2="20"/><line x1="84" y1="130" x2="84" y2="150"/><line x1="0" y1="66" x2="20" y2="66"/><line x1="150" y1="66" x2="170" y2="66"/><line x1="106" y1="0" x2="106" y2="20"/><line x1="106" y1="130" x2="106" y2="150"/><line x1="0" y1="84" x2="20" y2="84"/><line x1="150" y1="84" x2="170" y2="84"/><line x1="128" y1="0" x2="128" y2="20"/><line x1="128" y1="130" x2="128" y2="150"/><line x1="0" y1="102" x2="20" y2="102"/><line x1="150" y1="102" x2="170" y2="102"/><line x1="150" y1="0" x2="150" y2="20"/><line x1="150" y1="130" x2="150" y2="150"/><line x1="0" y1="120" x2="20" y2="120"/><line x1="150" y1="120" x2="170" y2="120"/><rect x="20" y="20" width="130" height="110" rx="10"/><rect x="55" y="52" width="60" height="46" rx="6"/></g>
+  <text x="52" y="415" font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="700" fill="#ffffff">OPERATING</text>
+  <text x="52" y="463" font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="700" fill="#a5f3fc">SYSTEM CONCEPTS</text>
+  <line x1="52" y1="492" x2="348" y2="492" stroke="#a5f3fc" stroke-width="1" opacity=".4"/>
+  <text x="52" y="520" font-family="Helvetica,Arial,sans-serif" font-size="12" letter-spacing="2.4" fill="#ffffff" opacity=".8">MU SEM V REFERENCE</text>
+  <text x="52" y="566" font-family="Helvetica,Arial,sans-serif" font-size="11" letter-spacing="3" fill="#a5f3fc" opacity=".6">MU CENTRAL LIBRARY</text>
+</svg>

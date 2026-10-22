@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="MY JOURNEY by A. P. J. ABDUL KALAM">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3f2d1b"/><stop offset="100%" stop-color="#78563a"/>
+    </linearGradient>
+    <linearGradient id="spine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000" stop-opacity=".45"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <rect width="26" height="600" fill="url(#spine)"/>
+  <rect x="26" y="0" width="1" height="600" fill="#f5deb3" opacity=".35"/>
+  <text x="52" y="58" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="4" fill="#f5deb3" opacity=".85">A. P. J. ABDUL KALAM</text>
+  <line x1="52" y1="76" x2="120" y2="76" stroke="#f5deb3" stroke-width="2" opacity=".7"/>
+  <g transform="translate(95,300)" fill="none" stroke="#f5deb3" stroke-width="2" opacity=".5">
+          <path d="M0 150 C50 150 40 90 90 90 C140 90 130 30 190 30" stroke-dasharray="7 7"/>
+          <circle cx="0" cy="150" r="6" fill="#f5deb3"/><circle cx="190" cy="30" r="6" fill="#f5deb3"/></g>
+  <text x="52" y="415" font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="700" fill="#ffffff">MY</text>
+  <text x="52" y="463" font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="700" fill="#f5deb3">JOURNEY</text>
+  <line x1="52" y1="492" x2="348" y2="492" stroke="#f5deb3" stroke-width="1" opacity=".4"/>
+  <text x="52" y="520" font-family="Helvetica,Arial,sans-serif" font-size="12" letter-spacing="2.4" fill="#ffffff" opacity=".8">TRANSFORMING DREAMS INTO ACTIONS</text>
+  <text x="52" y="566" font-family="Helvetica,Arial,sans-serif" font-size="11" letter-spacing="3" fill="#f5deb3" opacity=".6">MU CENTRAL LIBRARY</text>
+</svg>

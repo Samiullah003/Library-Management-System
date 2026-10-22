@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="TARGET 3 BILLION by KALAM & SINGH">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14532d"/><stop offset="100%" stop-color="#15803d"/>
+    </linearGradient>
+    <linearGradient id="spine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000" stop-opacity=".45"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <rect width="26" height="600" fill="url(#spine)"/>
+  <rect x="26" y="0" width="1" height="600" fill="#bbf7d0" opacity=".35"/>
+  <text x="52" y="58" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="4" fill="#bbf7d0" opacity=".85">KALAM & SINGH</text>
+  <line x1="52" y1="76" x2="120" y2="76" stroke="#bbf7d0" stroke-width="2" opacity=".7"/>
+  <g transform="translate(95,300)" fill="none" stroke="#bbf7d0" stroke-width="2" opacity=".5">
+          <circle cx="95" cy="95" r="80"/><ellipse cx="95" cy="95" rx="34" ry="80"/>
+          <path d="M15 95 H175"/><path d="M28 55 H162"/><path d="M28 135 H162"/></g>
+  <text x="52" y="415" font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="700" fill="#ffffff">TARGET</text>
+  <text x="52" y="463" font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="700" fill="#bbf7d0">3 BILLION</text>
+  <line x1="52" y1="492" x2="348" y2="492" stroke="#bbf7d0" stroke-width="1" opacity=".4"/>
+  <text x="52" y="520" font-family="Helvetica,Arial,sans-serif" font-size="12" letter-spacing="2.4" fill="#ffffff" opacity=".8">THE PURA MODEL</text>
+  <text x="52" y="566" font-family="Helvetica,Arial,sans-serif" font-size="11" letter-spacing="3" fill="#bbf7d0" opacity=".6">MU CENTRAL LIBRARY</text>
+</svg>

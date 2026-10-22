@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="DATABASE SYSTEM CONCEPTS by SILBERSCHATZ · KORTH · SUDARSHAN">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#312e81"/><stop offset="100%" stop-color="#4338ca"/>
+    </linearGradient>
+    <linearGradient id="spine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000" stop-opacity=".45"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#bg)"/>
+  <rect width="26" height="600" fill="url(#spine)"/>
+  <rect x="26" y="0" width="1" height="600" fill="#c7d2fe" opacity=".35"/>
+  <text x="52" y="58" font-family="Helvetica,Arial,sans-serif" font-size="13" letter-spacing="4" fill="#c7d2fe" opacity=".85">SILBERSCHATZ · KORTH · SUDARSHAN</text>
+  <line x1="52" y1="76" x2="120" y2="76" stroke="#c7d2fe" stroke-width="2" opacity=".7"/>
+  <g transform="translate(95,300)" stroke="#c7d2fe" fill="none" stroke-width="1.8" opacity=".5"><rect x="10" y="10" width="180" height="110" rx="6"/><line x1="10" y1="30" x2="190" y2="30"/><line x1="10" y1="60" x2="190" y2="60"/><line x1="10" y1="90" x2="190" y2="90"/><line x1="10" y1="120" x2="190" y2="120"/><line x1="10" y1="10" x2="10" y2="120"/><line x1="70" y1="10" x2="70" y2="120"/><line x1="130" y1="10" x2="130" y2="120"/><line x1="190" y1="10" x2="190" y2="120"/></g>
+  <text x="52" y="415" font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="700" fill="#ffffff">DATABASE</text>
+  <text x="52" y="463" font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="700" fill="#c7d2fe">SYSTEM CONCEPTS</text>
+  <line x1="52" y1="492" x2="348" y2="492" stroke="#c7d2fe" stroke-width="1" opacity=".4"/>
+  <text x="52" y="520" font-family="Helvetica,Arial,sans-serif" font-size="12" letter-spacing="2.4" fill="#ffffff" opacity=".8">MU SEM IV REFERENCE</text>
+  <text x="52" y="566" font-family="Helvetica,Arial,sans-serif" font-size="11" letter-spacing="3" fill="#c7d2fe" opacity=".6">MU CENTRAL LIBRARY</text>
+</svg>
