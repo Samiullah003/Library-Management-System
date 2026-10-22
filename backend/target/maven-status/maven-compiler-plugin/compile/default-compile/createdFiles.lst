@@ -1,0 +1,16 @@
+com\library\dao\UserDAO.class
+com\library\servlet\BookServlet.class
+com\library\util\DatabaseConfig.class
+com\library\model\Book.class
+com\library\servlet\StatsServlet.class
+com\library\dao\LoanDAO.class
+com\library\model\User.class
+com\library\servlet\AuthServlet.class
+com\library\servlet\ContactServlet.class
+com\library\filter\CorsFilter.class
+com\library\dao\BookDAO.class
+com\library\util\JsonUtil.class
+com\library\model\Loan.class
+com\library\util\AuthHelper.class
+com\library\servlet\LoanServlet.class
+com\library\model\ApiResponse.class
